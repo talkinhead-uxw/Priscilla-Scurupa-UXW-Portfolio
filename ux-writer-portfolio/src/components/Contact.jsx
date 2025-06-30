@@ -28,14 +28,14 @@ const Contact = () => {
     {
       icon: <Mail className="h-5 w-5" />,
       label: 'Email',
-      value: 'priscilla.scurupa@exemplo.com',
-      href: 'mailto:priscilla.scurupa@exemplo.com'
+      value: 'pri.prof@gmail.com',
+      href: 'mailto:pri.prof@gmail.com'
     },
     {
       icon: <Phone className="h-5 w-5" />,
       label: 'Telefone',
-      value: '+55 (41) 99999-9999',
-      href: 'tel:+5541999999999'
+      value: '+55 (41) 98816-1760',
+      href: 'tel:+55 (41) 98816-1760'
     },
     {
       icon: <MapPin className="h-5 w-5" />,
@@ -49,12 +49,12 @@ const Contact = () => {
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/seu-perfil'
+      href: 'https://www.linkedin.com/in/priscillascurupa/'
     },
     {
       icon: <Github className="h-5 w-5" />,
       label: 'GitHub',
-      href: 'https://github.com/seu-usuario'
+      href: 'https://talkinhead-uxw.github.io/'
     }
   ]
 
